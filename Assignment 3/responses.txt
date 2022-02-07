@@ -1,0 +1,3 @@
+1. The relationship between an IP address and the DNS is that without the domain name system, we would have to look up websites by their IP address, therefore, the DNS streamlines this.
+A cookie is all in all saved information within your web browser.
+The protocol, domain and path.
