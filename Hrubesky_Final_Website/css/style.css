@@ -119,7 +119,7 @@ header {
   position: fixed;
   background-color: black;
   width: 99%;
-  height: 4em;
+  height: 6em;
   top: 0px;
   font-family: Merriweather;
   text-align: right;
@@ -128,11 +128,11 @@ header {
 
 .menu-item {
   display: inline-block;
-  margin: 1em .2em;
+  margin: 1em 1em;
   background-color: #333;
-  padding: 1em 1em;
-  border-radius: 1em;
-  min-width: 6em;
+  padding: 3em 3em;
+  border-radius: 2em;
+  min-width: 7em;
   text-align: center;
 }
 
@@ -176,8 +176,8 @@ header {
   display: block;
   text-align: left;
   margin: 0;
-  padding: 0.5em 1em 0.5em 1em;
-  min-width: 6em;
+  padding: 1em 1em 1em 1em;
+  min-width: 8em;
 }
 
 .dropdown-item:hover, .dropdown-item:hover a {
@@ -187,11 +187,11 @@ header {
 
 
 #FAQ:hover{
-  border-radius: 0em 0em 1em 1em;
+  border-radius: 1em 1em 1em 1em;
 }
 
 .dropdown-hover {
-  border-radius: 5em 5em 5em 5em;
+  border-radius: 6em 6em 6em 6em;
 }
 
 
@@ -199,8 +199,8 @@ header {
   color: #E81C23;
   float: left;
   min-width: 6em;
-  padding: 0.5 1em;
-  letter-spacing: 0.3em;
+  padding: 1 1em;
+  letter-spacing: 0.8em;
   font-weight: bold;
   margin: 1em .2em;
 }
